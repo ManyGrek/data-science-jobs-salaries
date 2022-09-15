@@ -11,7 +11,7 @@ Some of the question that guide this project are:
 - What type of contract (part-time, full-time, etc.) offers the best salaries? What type of contract will be the most suitable?
 
 ## Methodology
-The methodology used to perform the analysis is structured as follows:
+The workflow used to perform the analysis is structured as follows:
 ### Database exploration
 The first part of the analysis consists in gaining insight in the data variables and the relation between them. Identify the
 principal characteristics of each feature (data type, scale, trend and dispersion measures, etc) as well as check for miss or duplicated data.
